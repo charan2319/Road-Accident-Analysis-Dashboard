@@ -34,6 +34,9 @@ The dashboard includes the following KPIs:
 
 Dashboard Features & Visualizations:
 
+![IMG_6393](https://github.com/user-attachments/assets/d12269b0-7506-41cf-ab4a-0623b6bd66f2)
+
+
 • Interactive Slicers for Year & Month of Accident, Weather and Road Surface 
 Conditions, and Juntion Control.
 
