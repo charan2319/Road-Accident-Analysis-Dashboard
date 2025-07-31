@@ -1,4 +1,5 @@
 Road Accident Analysis
+
 Objective:
 The purpose of this dashboard is to analyze road accident data and extract actionable insights that contribute to improving road safety. The analysis helps in understanding accident trends, severity levels, environmental impact, and risk-prone areas.
 Data Preparation:
